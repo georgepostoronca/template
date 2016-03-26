@@ -1,0 +1,108 @@
+@font-face {
+    font-family: 'langfont';
+    src:    url('fonts/langfont.eot?8tp8v5');
+    src:    url('fonts/langfont.eot?8tp8v5#iefix') format('embedded-opentype'),
+        url('fonts/langfont.ttf?8tp8v5') format('truetype'),
+        url('fonts/langfont.woff?8tp8v5') format('woff'),
+        url('fonts/langfont.svg?8tp8v5#langfont') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: 'langfont' !important;
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-bash:before {
+    content: "\e900";
+}
+.icon-basic:before {
+    content: "\e901";
+}
+.icon-c:before {
+    content: "\e902";
+}
+.icon-coffe-script:before {
+    content: "\e903";
+}
+.icon-c-plus-plus:before {
+    content: "\e904";
+}
+.icon-csharp:before {
+    content: "\e905";
+}
+.icon-css:before {
+    content: "\e906";
+}
+.icon-css3:before {
+    content: "\e907";
+}
+.icon-dart:before {
+    content: "\e908";
+}
+.icon-git:before {
+    content: "\e909";
+}
+.icon-hasksel:before {
+    content: "\e90a";
+}
+.icon-html:before {
+    content: "\e90b";
+}
+.icon-html5:before {
+    content: "\e90c";
+}
+.icon-java:before {
+    content: "\e90d";
+}
+.icon-javascript:before {
+    content: "\e90e";
+}
+.icon-jquery:before {
+    content: "\e90f";
+}
+.icon-js2:before {
+    content: "\e910";
+}
+.icon-linux:before {
+    content: "\e911";
+}
+.icon-lua:before {
+    content: "\e912";
+}
+.icon-mysql:before {
+    content: "\e913";
+}
+.icon-node:before {
+    content: "\e914";
+}
+.icon-objc:before {
+    content: "\e915";
+}
+.icon-perl:before {
+    content: "\e916";
+}
+.icon-php:before {
+    content: "\e917";
+}
+.icon-php2:before {
+    content: "\e918";
+}
+.icon-python:before {
+    content: "\e919";
+}
+.icon-ruby:before {
+    content: "\e91a";
+}
+
